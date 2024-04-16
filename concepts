@@ -1,0 +1,31 @@
+# what is NUmpy?
+- nd array object (1d, 2d, 3d,..)
+- array and matrices (linear algebras, )
+
+# Why Numpy over lists?
+- lists are slow and numpy are Faster
+- NUmpy uses fixed type
+
+# Why Numpy is Faster?
+for eg: 
+5 in binary => 0000 0101 (8bits)
+for NumPy: Int32 (default) => 32 bits -> 4 bytes
+    Int16(2 bytes), Int8(1 byte)
+
+for lists: built in Int type:
+    - Size (around 4 bytes)
+    - reference count (8 bytes)
+    - object type (8 bytes)
+    - object value (8 bytes)
+
+- So, faster to read less bytes of memory.
+- No need to type check in iteration of objects.
+- NumPy utilites contigious memory but dynamic in lists
+    Benefits:   - SIMD Vector Processing
+                - Efficient Cache utilization
+
+# Applications of NumPy:
+- Mathematics (MATLAB Replacement)
+- Plotting (Matplotlib)
+- Backend (Pandas, connect4, Digital Photography)
+- Machine Learning
