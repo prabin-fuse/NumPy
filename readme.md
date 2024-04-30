@@ -22,4 +22,4 @@ The objective of this course is to ensure you are able to:
 
 For Pandas,
 - [Pandas Basic](https://www.kaggle.com/learn/certification/prabinbohara/pandas)
-- [Data Cleaning] (https://www.kaggle.com/learn/certification/prabinbohara/data-cleaning)
+- [Data Cleaning](https://www.kaggle.com/learn/certification/prabinbohara/data-cleaning)
