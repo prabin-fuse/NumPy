@@ -21,5 +21,6 @@ The objective of this course is to ensure you are able to:
 
 
 For Pandas,
+The certificate of course completion are listed below:
 - [Pandas Basic](https://www.kaggle.com/learn/certification/prabinbohara/pandas)
 - [Data Cleaning](https://www.kaggle.com/learn/certification/prabinbohara/data-cleaning)
